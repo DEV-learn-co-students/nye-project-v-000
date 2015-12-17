@@ -1,5 +1,6 @@
 project:
   review_criteria:
+    - fireplace
     - mistletoe
     - buy a tree
     - make origami
